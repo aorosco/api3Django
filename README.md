@@ -1,21 +1,32 @@
 # api3Django
-<<<<<<< HEAD
+## Propósito
+El propósito principal de api3Django es proporcionar una herramienta eficiente para:
 
+Gestión de Profesores: Permite la gestión de profesores, su información personal y su relación con la plataforma mediante la extensión de la clase de usuario proporcionada por Django.
 
+Horarios y Períodos Académicos: Facilita la programación y asignación de clases para profesores en diferentes períodos académicos, con la capacidad de ajustar la duración de los periodos según la temporada.
+
+Asignaturas: Ofrece un sistema para administrar y asignar asignaturas a los horarios, lo que permite un control preciso de qué se enseña en cada período.
+
+Horas Hábiles: Ayuda en la gestión de las horas hábiles, permitiendo que los períodos académicos se adapten a las necesidades específicas de la institución.
+
+En resumen, api3Django simplifica la gestión de la información académica y los horarios en una unidad educativa, lo que ahorra tiempo y recursos valiosos, y garantiza una organización más eficiente de la actividad educativa.
+
+¡Esperamos que api3Django sea una herramienta útil para tu unidad educativa y contribuya a una gestión académica efectiva!
 
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes requisitos previos antes de comenzar:
 
-- Python (versión X.X)
-- Pip (el gestor de paquetes de Python)
+- Python (versión 3.10.12)
+- Pip (Version 22.0.2 el gestor de paquetes de Python)
 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/tuproyecto.git
+   git clone git@github.com:aorosco/api3Django.git
 
 2. Ve al directorio del proyecto:
    ```bash
@@ -45,6 +56,4 @@ Asegúrate de tener instalados los siguientes requisitos previos antes de comenz
    python manage.py runserver
 10. ingresa a la ruta:
    http://localhost:8000/
-=======
-# apiDjango
->>>>>>> 2a392d5dd77b9eea18bc53742248c8329daef47f
+
