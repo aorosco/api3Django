@@ -1,4 +1,5 @@
 # api3Django
+<<<<<<< HEAD
 
 
 
@@ -44,3 +45,6 @@ Asegúrate de tener instalados los siguientes requisitos previos antes de comenz
    python manage.py runserver
 10. ingresa a la ruta:
    http://localhost:8000/
+=======
+# apiDjango
+>>>>>>> 2a392d5dd77b9eea18bc53742248c8329daef47f
