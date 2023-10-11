@@ -57,3 +57,6 @@ Asegúrate de tener instalados los siguientes requisitos previos antes de comenz
 10. ingresa a la ruta:
    http://localhost:8000/
 
+#  Para el inicio de sesión en http://localhost:8000/api/token/  se requiere crear una cuenta por medio del administrador de Django ( http://localhost:8000/admin/   ) o también puedes usar las credenciales de la cuenta de administrador que se creó en el paso número  8. 
+
+
